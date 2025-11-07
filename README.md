@@ -1,51 +1,48 @@
-# 👋 Olá! Eu sou Jonas Bomfim
-
-## 💻 Profissão e função atual
-
-Sou estudante de Ciência da Computação e, em paralelo, estudo programação por conta própria. Meu foco está em me desenvolver como desenvolvedor **full stack**, com interesse especial em backend, frontend e cloud.
+# 👋 Opa! Eu sou o Jonas Francisco  
+**Desenvolvedor Front-End focado em React e TypeScript**  
+Sempre em busca de aprimorar meus conhecimentos e aprender novas tecnologias.
 
 ---
 
-## 🛠️ Principais habilidades / Stack
-
-- **Linguagens:** HTML, CSS, JavaScript *(aprendendo)*
-- **Ferramentas:** Git, GitHub, Figma
-- **Estudos em andamento:** React, Node.js, bancos de dados, arquitetura de software, inglês e oratória
-
----
-
-## 🚀 Projetos e conquistas
-
-- **Fala AJU 📱:** Super app para cidades inteligentes, com foco em gestão colaborativa.
-- **Protótipos no Figma 🎨:** Criação de aplicativos com estilo moderno e profissional.
-- **Repositórios de estudo 💡:** Códigos e anotações que mostram minha evolução no mundo da programação.
+## 🧠 Sobre mim  
+Sou apaixonado por tecnologia e programação.  
+Gosto de transformar ideias em interfaces funcionais, rápidas e bem estruturadas.  
+Atualmente estudo e desenvolvo com **React**, **Next.js**, **TypeScript** e **TailwindCSS**, criando experiências modernas e responsivas no front-end.  
+Também sou curioso sobre o funcionamento do **Node.js** e da **automação com IA**, buscando entender mais sobre o lado do back-end e integração de agentes inteligentes.
 
 ---
 
-## 🎸 Interesses e hobbies
-
-- Treino de academia (5x por semana 🏋️)
-- Leitura de livros de desenvolvimento pessoal e negócios 📚
-- Estudo de investimentos e empreendedorismo 💰
-- Aprender idiomas 🌍
-
----
-
-## 🌐 Links sociais
-
-- **GitHub:** [github.com/JonasFrancisco](https://github.com/JonasFrancisco) *(trocar depois pelo seu link real)*
-- **LinkedIn:** [linkedin.com/in/jonasfrancisco](https://linkedin.com/in/jonasfrancisco) *(trocar depois pelo seu link real)*
-- **Portfólio:** *em construção*
+## 🚀 Tecnologias e Ferramentas  
+<div style="display: flex; gap: 10px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+</div>
 
 ---
 
-## ✨ Fatos & citações
+## 📊 Estatísticas do GitHub  
 
-> “Disciplina é liberdade.”
+<div align="center">
 
-- Tenho o objetivo de conquistar fluência em inglês em 2 anos.
-- Sonho em me tornar um empreendedor de sucesso na área de tecnologia.
+![Jonas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=**SEU_USUARIO_AQUI**&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**SEU_USUARIO_AQUI**&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 
-<!-- Sinta-se à vontade para adaptar e evoluir este perfil conforme sua jornada! 🚀 -->
+## 🌐 Onde me encontrar  
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-francisco-46a209368)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/**SEU_USUARIO_AQUI**)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seuusuario)
+
+---
+
+💬 *“O aprendizado constante é o que move o desenvolvimento.”*
+
