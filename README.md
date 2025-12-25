@@ -4,12 +4,20 @@ Sempre em busca de aprimorar meus conhecimentos e aprender novas tecnologias.
 
 ---
 
+📍 Aracaju - SE • 🎓 Ciência da Computação (2º período)  
+🚀 Atualmente estudando: **React, TypeScript, JavaScript moderno, Git e boas práticas**  
+💼 Experiência prática: **residência de software (UNIT) com empresa parceira PopCode**, atuando em time ágil (Scrum) e entregas contínuas.
+
+--
+
 ## 🧠 Sobre mim
 Sou estudante de Ciência da Computação e desenvolvedor em formação, com foco total em **front-end**.  
 Gosto de escrever **código limpo**, organizado e fácil de manter, priorizando **componentização**, **estado** e **consumo de APIs** no React.  
 Hoje estou aprofundando **JavaScript moderno (ES6+)**, **React (hooks e roteamento)** e **boas práticas com Git** para evoluir como profissional e entregar interfaces rápidas e consistentes.
 
 ---
+
+
 
 ## 🚀 Tecnologias e Ferramentas
 <div style="display: flex; gap: 10px;">
