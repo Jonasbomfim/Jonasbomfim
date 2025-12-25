@@ -1,5 +1,5 @@
 # 👋 Olá! Eu sou Jonas Francisco Nascimento Bomfim  
-**Desenvolvedor Front-End focado em HTML, CSS, JavaScript e React**  
+**Front-end Developer (React/TypeScript) | UI/UX | APIs | Clean Code**  
 Sempre em busca de aprimorar meus conhecimentos e aprender novas tecnologias.
 
 ---
