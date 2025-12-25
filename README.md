@@ -4,7 +4,7 @@ Sempre em busca de aprimorar meus conhecimentos e aprender novas tecnologias.
 
 ---
 
-📍 Aracaju - SE • 🎓 Ciência da Computação (2º período)  
+📍 Aracaju - SE • 🎓 Ciência da Computação  
 🚀 Atualmente estudando: **React, TypeScript, JavaScript moderno, Git e boas práticas**  
 💼 Experiência prática: **residência de software (UNIT) com empresa parceira PopCode**, atuando em time ágil (Scrum) e entregas contínuas.
 
